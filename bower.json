@@ -1,0 +1,27 @@
+{
+  "name": "drp-if-route-directive",
+  "main": "drp-if-route-directive.js",
+  "version": "0.0.0",
+  "authors": [
+    "David Rodenas <david.rodenas@gmail.com>"
+  ],
+  "description": "An AngularJS directive that acts like ngIf but shows/removes the element based in the current route path.",
+  "keywords": [
+    "angularjs",
+    "route",
+    "ngIf",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/drpicox/drp-if-route-directive",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "drp-if-directive-support": "~0.0.0"
+  }
+}
